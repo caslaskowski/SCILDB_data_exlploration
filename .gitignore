@@ -1,0 +1,4 @@
+review/narf_cache/
+review/opinion_cache.json
+__pycache__/
+*.pyc
