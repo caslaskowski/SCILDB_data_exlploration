@@ -1,0 +1,474 @@
+{
+ "JJay": {
+  "file": "JJay.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Jay"
+ },
+ "JRutledge1": {
+  "file": "JRutledge1.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Rutledge"
+ },
+ "WCushing": {
+  "file": "WCushing.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_Cushing"
+ },
+ "JWilson": {
+  "file": "JWilson.jpg",
+  "source": "https://en.wikipedia.org/wiki/James_Wilson_(Founding_Father)"
+ },
+ "JBlair": {
+  "file": "JBlair.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Blair_Jr."
+ },
+ "JIredell": {
+  "file": "JIredell.jpg",
+  "source": "https://en.wikipedia.org/wiki/James_Iredell"
+ },
+ "TJohnson": {
+  "file": "TJohnson.jpeg",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Johnson_(judge)"
+ },
+ "WPaterson": {
+  "file": "WPaterson.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_Paterson_(judge)"
+ },
+ "JRutledge2": {
+  "file": "JRutledge2.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Rutledge"
+ },
+ "SChase": {
+  "file": "SChase.jpg",
+  "source": "https://en.wikipedia.org/wiki/Samuel_Chase"
+ },
+ "OEllsworth": {
+  "file": "OEllsworth.jpg",
+  "source": "https://en.wikipedia.org/wiki/Oliver_Ellsworth"
+ },
+ "BWashington": {
+  "file": "BWashington.jpg",
+  "source": "https://en.wikipedia.org/wiki/Bushrod_Washington"
+ },
+ "AMoore": {
+  "file": "AMoore.jpg",
+  "source": "https://en.wikipedia.org/wiki/Alfred_Moore"
+ },
+ "JMarshall": {
+  "file": "JMarshall.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Marshall"
+ },
+ "WJohnson": {
+  "file": "WJohnson.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_Johnson_(judge)"
+ },
+ "HBLivingston": {
+  "file": "HBLivingston.jpg",
+  "source": "https://en.wikipedia.org/wiki/Henry_Brockholst_Livingston"
+ },
+ "TTodd": {
+  "file": "TTodd.jpg",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Todd"
+ },
+ "GDuvall": {
+  "file": "GDuvall.jpg",
+  "source": "https://en.wikipedia.org/wiki/Gabriel_Duvall"
+ },
+ "JStory": {
+  "file": "JStory.jpg",
+  "source": "https://en.wikipedia.org/wiki/Joseph_Story"
+ },
+ "SThompson": {
+  "file": "SThompson.jpg",
+  "source": "https://en.wikipedia.org/wiki/Smith_Thompson"
+ },
+ "RTrimble": {
+  "file": "RTrimble.jpg",
+  "source": "https://en.wikipedia.org/wiki/Robert_Trimble"
+ },
+ "JMcLean": {
+  "file": "JMcLean.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_McLean"
+ },
+ "HBaldwin": {
+  "file": "HBaldwin.jpg",
+  "source": "https://en.wikipedia.org/wiki/Henry_Baldwin_(judge)"
+ },
+ "JMWayne": {
+  "file": "JMWayne.jpg",
+  "source": "https://en.wikipedia.org/wiki/James_M._Wayne"
+ },
+ "RBTaney": {
+  "file": "RBTaney.jpg",
+  "source": "https://en.wikipedia.org/wiki/Roger_B._Taney"
+ },
+ "PPBarbour": {
+  "file": "PPBarbour.jpg",
+  "source": "https://en.wikipedia.org/wiki/Philip_P._Barbour"
+ },
+ "JCatron": {
+  "file": "JCatron.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Catron"
+ },
+ "JMcKinley": {
+  "file": "JMcKinley.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_McKinley"
+ },
+ "PVDaniel": {
+  "file": "PVDaniel.jpg",
+  "source": "https://en.wikipedia.org/wiki/Peter_V._Daniel"
+ },
+ "SNelson": {
+  "file": "SNelson.jpg",
+  "source": "https://en.wikipedia.org/wiki/Samuel_Nelson"
+ },
+ "LWoodbury": {
+  "file": "LWoodbury.jpg",
+  "source": "https://en.wikipedia.org/wiki/Levi_Woodbury"
+ },
+ "RCGrier": {
+  "file": "RCGrier.jpg",
+  "source": "https://en.wikipedia.org/wiki/Robert_Cooper_Grier"
+ },
+ "BRCurtis": {
+  "file": "BRCurtis.png",
+  "source": "https://en.wikipedia.org/wiki/Benjamin_Robbins_Curtis"
+ },
+ "JACampbell": {
+  "file": "JACampbell.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Archibald_Campbell"
+ },
+ "NClifford": {
+  "file": "NClifford.jpg",
+  "source": "https://en.wikipedia.org/wiki/Nathan_Clifford"
+ },
+ "NHSwayne": {
+  "file": "NHSwayne.jpg",
+  "source": "https://en.wikipedia.org/wiki/Noah_Haynes_Swayne"
+ },
+ "SFMiller": {
+  "file": "SFMiller.jpg",
+  "source": "https://en.wikipedia.org/wiki/Samuel_Freeman_Miller"
+ },
+ "DDavis": {
+  "file": "DDavis.jpg",
+  "source": "https://en.wikipedia.org/wiki/David_Davis_(Supreme_Court_justice)"
+ },
+ "SJField": {
+  "file": "SJField.jpg",
+  "source": "https://en.wikipedia.org/wiki/Stephen_Johnson_Field"
+ },
+ "SPChase": {
+  "file": "SPChase.jpg",
+  "source": "https://en.wikipedia.org/wiki/Salmon_P._Chase"
+ },
+ "WStrong": {
+  "file": "WStrong.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_Strong_(Pennsylvania_jurist)"
+ },
+ "JPBradley": {
+  "file": "JPBradley.jpg",
+  "source": "https://en.wikipedia.org/wiki/Joseph_P._Bradley"
+ },
+ "WHunt": {
+  "file": "WHunt.jpg",
+  "source": "https://en.wikipedia.org/wiki/Ward_Hunt"
+ },
+ "MRWaite": {
+  "file": "MRWaite.jpg",
+  "source": "https://en.wikipedia.org/wiki/Morrison_Waite"
+ },
+ "JHarlan1": {
+  "file": "JHarlan1.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Marshall_Harlan"
+ },
+ "WBWoods": {
+  "file": "WBWoods.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_Burnham_Woods"
+ },
+ "SMatthews": {
+  "file": "SMatthews.jpg",
+  "source": "https://en.wikipedia.org/wiki/Stanley_Matthews_(judge)"
+ },
+ "HGray": {
+  "file": "HGray.jpg",
+  "source": "https://en.wikipedia.org/wiki/Horace_Gray"
+ },
+ "SBlatchford": {
+  "file": "SBlatchford.png",
+  "source": "https://en.wikipedia.org/wiki/Samuel_Blatchford"
+ },
+ "LQLamar": {
+  "file": "LQLamar.jpg",
+  "source": "https://en.wikipedia.org/wiki/Lucius_Quintus_Cincinnatus_Lamar"
+ },
+ "MWFuller": {
+  "file": "MWFuller.jpg",
+  "source": "https://en.wikipedia.org/wiki/Melville_Fuller"
+ },
+ "DJBrewer": {
+  "file": "DJBrewer.jpg",
+  "source": "https://en.wikipedia.org/wiki/David_J._Brewer"
+ },
+ "HBBrown": {
+  "file": "HBBrown.jpg",
+  "source": "https://en.wikipedia.org/wiki/Henry_Billings_Brown"
+ },
+ "GShiras": {
+  "file": "GShiras.jpg",
+  "source": "https://en.wikipedia.org/wiki/George_Shiras_Jr."
+ },
+ "HEJackson": {
+  "file": "HEJackson.jpg",
+  "source": "https://en.wikipedia.org/wiki/Howell_E._Jackson"
+ },
+ "EDEWhite": {
+  "file": "EDEWhite.jpg",
+  "source": "https://en.wikipedia.org/wiki/Edward_Douglass_White"
+ },
+ "RWPeckham": {
+  "file": "RWPeckham.jpg",
+  "source": "https://en.wikipedia.org/wiki/Rufus_W._Peckham"
+ },
+ "JMcKenna": {
+  "file": "JMcKenna.jpg",
+  "source": "https://en.wikipedia.org/wiki/Joseph_McKenna"
+ },
+ "OWHolmes": {
+  "file": "OWHolmes.jpg",
+  "source": "https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr."
+ },
+ "WRDay": {
+  "file": "WRDay.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_R._Day"
+ },
+ "WHMoody": {
+  "file": "WHMoody.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_Henry_Moody"
+ },
+ "HHLurton": {
+  "file": "HHLurton.jpg",
+  "source": "https://en.wikipedia.org/wiki/Horace_Harmon_Lurton"
+ },
+ "CEHughes1": {
+  "file": "CEHughes1.jpg",
+  "source": "https://en.wikipedia.org/wiki/Charles_Evans_Hughes"
+ },
+ "WVanDevanter": {
+  "file": "WVanDevanter.jpg",
+  "source": "https://en.wikipedia.org/wiki/Willis_Van_Devanter"
+ },
+ "JRLamar": {
+  "file": "JRLamar.jpg",
+  "source": "https://en.wikipedia.org/wiki/Joseph_Rucker_Lamar"
+ },
+ "MPitney": {
+  "file": "MPitney.jpg",
+  "source": "https://en.wikipedia.org/wiki/Mahlon_Pitney"
+ },
+ "JCMcReynolds": {
+  "file": "JCMcReynolds.jpg",
+  "source": "https://en.wikipedia.org/wiki/James_Clark_McReynolds"
+ },
+ "LDBrandeis": {
+  "file": "LDBrandeis.jpg",
+  "source": "https://en.wikipedia.org/wiki/Louis_Brandeis"
+ },
+ "JHClarke": {
+  "file": "JHClarke.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Hessin_Clarke"
+ },
+ "WHTaft": {
+  "file": "WHTaft.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_Howard_Taft"
+ },
+ "GSutherland": {
+  "file": "GSutherland.jpg",
+  "source": "https://en.wikipedia.org/wiki/George_Sutherland"
+ },
+ "PButler": {
+  "file": "PButler.jpg",
+  "source": "https://en.wikipedia.org/wiki/Pierce_Butler_(judge)"
+ },
+ "ETSanford": {
+  "file": "ETSanford.jpg",
+  "source": "https://en.wikipedia.org/wiki/Edward_Terry_Sanford"
+ },
+ "HFStone": {
+  "file": "HFStone.jpg",
+  "source": "https://en.wikipedia.org/wiki/Harlan_F._Stone"
+ },
+ "CEHughes2": {
+  "file": "CEHughes2.jpg",
+  "source": "https://en.wikipedia.org/wiki/Charles_Evans_Hughes"
+ },
+ "OJRoberts": {
+  "file": "OJRoberts.jpg",
+  "source": "https://en.wikipedia.org/wiki/Owen_Roberts"
+ },
+ "BNCardozo": {
+  "file": "BNCardozo.jpg",
+  "source": "https://en.wikipedia.org/wiki/Benjamin_N._Cardozo"
+ },
+ "HLBlack": {
+  "file": "HLBlack.jpg",
+  "source": "https://en.wikipedia.org/wiki/Hugo_Black"
+ },
+ "SFReed": {
+  "file": "SFReed.jpg",
+  "source": "https://en.wikipedia.org/wiki/Stanley_Forman_Reed"
+ },
+ "FFrankfurter": {
+  "file": "FFrankfurter.jpg",
+  "source": "https://en.wikipedia.org/wiki/Felix_Frankfurter"
+ },
+ "WODouglas": {
+  "file": "WODouglas.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_O._Douglas"
+ },
+ "FMurphy": {
+  "file": "FMurphy.jpg",
+  "source": "https://en.wikipedia.org/wiki/Frank_Murphy"
+ },
+ "JFByrnes": {
+  "file": "JFByrnes.jpg",
+  "source": "https://en.wikipedia.org/wiki/James_F._Byrnes"
+ },
+ "RHJackson": {
+  "file": "RHJackson.jpg",
+  "source": "https://en.wikipedia.org/wiki/Robert_H._Jackson"
+ },
+ "WBRutledge": {
+  "file": "WBRutledge.jpg",
+  "source": "https://en.wikipedia.org/wiki/Wiley_Rutledge"
+ },
+ "HHBurton": {
+  "file": "HHBurton.jpg",
+  "source": "https://en.wikipedia.org/wiki/Harold_H._Burton"
+ },
+ "FMVinson": {
+  "file": "FMVinson.jpg",
+  "source": "https://en.wikipedia.org/wiki/Fred_M._Vinson"
+ },
+ "TCClark": {
+  "file": "TCClark.jpg",
+  "source": "https://en.wikipedia.org/wiki/Tom_C._Clark"
+ },
+ "SMinton": {
+  "file": "SMinton.jpg",
+  "source": "https://en.wikipedia.org/wiki/Sherman_Minton"
+ },
+ "EWarren": {
+  "file": "EWarren.jpg",
+  "source": "https://en.wikipedia.org/wiki/Earl_Warren"
+ },
+ "JHarlan2": {
+  "file": "JHarlan2.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Marshall_Harlan_II"
+ },
+ "WJBrennan": {
+  "file": "WJBrennan.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_J._Brennan_Jr."
+ },
+ "CEWhittaker": {
+  "file": "CEWhittaker.jpg",
+  "source": "https://en.wikipedia.org/wiki/Charles_Evans_Whittaker"
+ },
+ "PStewart": {
+  "file": "PStewart.jpg",
+  "source": "https://en.wikipedia.org/wiki/Potter_Stewart"
+ },
+ "BRWhite": {
+  "file": "BRWhite.jpg",
+  "source": "https://en.wikipedia.org/wiki/Byron_White"
+ },
+ "AJGoldberg": {
+  "file": "AJGoldberg.jpg",
+  "source": "https://en.wikipedia.org/wiki/Arthur_Goldberg"
+ },
+ "AFortas": {
+  "file": "AFortas.jpeg",
+  "source": "https://en.wikipedia.org/wiki/Abe_Fortas"
+ },
+ "TMarshall": {
+  "file": "TMarshall.jpg",
+  "source": "https://en.wikipedia.org/wiki/Thurgood_Marshall"
+ },
+ "WEBurger": {
+  "file": "WEBurger.jpeg",
+  "source": "https://en.wikipedia.org/wiki/Warren_E._Burger"
+ },
+ "HABlackmun": {
+  "file": "HABlackmun.jpg",
+  "source": "https://en.wikipedia.org/wiki/Harry_Blackmun"
+ },
+ "LFPowell": {
+  "file": "LFPowell.jpg",
+  "source": "https://en.wikipedia.org/wiki/Lewis_F._Powell_Jr."
+ },
+ "WHRehnquist": {
+  "file": "WHRehnquist.jpg",
+  "source": "https://en.wikipedia.org/wiki/William_Rehnquist"
+ },
+ "JPStevens": {
+  "file": "JPStevens.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Paul_Stevens"
+ },
+ "SDOConnor": {
+  "file": "SDOConnor.jpg",
+  "source": "https://en.wikipedia.org/wiki/Sandra_Day_O'Connor"
+ },
+ "AScalia": {
+  "file": "AScalia.jpg",
+  "source": "https://en.wikipedia.org/wiki/Antonin_Scalia"
+ },
+ "AMKennedy": {
+  "file": "AMKennedy.jpg",
+  "source": "https://en.wikipedia.org/wiki/Anthony_Kennedy"
+ },
+ "DHSouter": {
+  "file": "DHSouter.jpg",
+  "source": "https://en.wikipedia.org/wiki/David_Souter"
+ },
+ "CThomas": {
+  "file": "CThomas.jpg",
+  "source": "https://en.wikipedia.org/wiki/Clarence_Thomas"
+ },
+ "RBGinsburg": {
+  "file": "RBGinsburg.jpg",
+  "source": "https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg"
+ },
+ "SGBreyer": {
+  "file": "SGBreyer.jpg",
+  "source": "https://en.wikipedia.org/wiki/Stephen_Breyer"
+ },
+ "JGRoberts": {
+  "file": "JGRoberts.jpg",
+  "source": "https://en.wikipedia.org/wiki/John_Roberts"
+ },
+ "SAAlito": {
+  "file": "SAAlito.jpg",
+  "source": "https://en.wikipedia.org/wiki/Samuel_Alito"
+ },
+ "SSotomayor": {
+  "file": "SSotomayor.jpg",
+  "source": "https://en.wikipedia.org/wiki/Sonia_Sotomayor"
+ },
+ "EKagan": {
+  "file": "EKagan.jpg",
+  "source": "https://en.wikipedia.org/wiki/Elena_Kagan"
+ },
+ "NMGorsuch": {
+  "file": "NMGorsuch.jpg",
+  "source": "https://en.wikipedia.org/wiki/Neil_Gorsuch"
+ },
+ "BMKavanaugh": {
+  "file": "BMKavanaugh.jpg",
+  "source": "https://en.wikipedia.org/wiki/Brett_Kavanaugh"
+ },
+ "ACBarrett": {
+  "file": "ACBarrett.jpg",
+  "source": "https://en.wikipedia.org/wiki/Amy_Coney_Barrett"
+ },
+ "KBJackson": {
+  "file": "KBJackson.jpg",
+  "source": "https://en.wikipedia.org/wiki/Ketanji_Brown_Jackson"
+ }
+}

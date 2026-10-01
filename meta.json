@@ -1,0 +1,19 @@
+{
+  "cases": 679,
+  "votes": 5975,
+  "justices": 118,
+  "justicesWithVotes": 107,
+  "termMin": 1810,
+  "termMax": 2023,
+  "voteLabels": {
+    "1": "voted with majority or plurality",
+    "2": "dissent",
+    "3": "regular concurrence",
+    "4": "special concurrence",
+    "5": "judgment of the Court",
+    "6": "dissent from denial or dismissal of certiorari",
+    "7": "jurisdictional dissent",
+    "8": "participated in equally divided vote"
+  },
+  "citationLinks": 3604
+}
